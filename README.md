@@ -57,3 +57,6 @@ https://github.com/girishlade111/drive-releases/releases/download/music-v1.0.0/<
 
 ---
 *Generated via automated GitHub Releases workflow — audio files are NOT stored in Git history.*
+
+---
+Built by [Girish Lade](https://ladestack.in) — https://ladestack.in
